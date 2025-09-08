@@ -1,46 +1,46 @@
-# ABDELBADIE KHOUBIZA
-**Full-Stack Developer & Digital Architect**
+# ABDELBADIE KHOUBIZA  
+**Full-Stack Developer | Digital Architect | Systems Innovator**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=300&size=16&duration=3000&pause=1000&color=888888&background=0D111700&width=500&lines=Crafting+scalable+digital+solutions;Turning+complexity+into+simplicity;Code+%7C+Strategy+%7C+Results)](https://git.io/typing-svg)
-
----
-
-## TECHNICAL EXCELLENCE
-
-**Frontend Engineering**  
-`Angular 17+` `TypeScript` `Ionic` `Modern ES6+`
-
-**Backend Architecture**  
-`Node.js/Express` `Laravel/PHP` `RESTful APIs` `JWT Auth`
-
-**Data Engineering**  
-`MongoDB` `MySQL` `Database Optimization` `Security Patterns`
-
-**Infrastructure**  
-`Server Architecture` `RAID Systems` `Virtualization` `Performance Tuning`
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=16&duration=3000&pause=1000&color=58A6FF&background=0D111700&width=550&lines=Engineering+scalable+digital+platforms;Transforming+complexity+into+clarity;Code+%7C+Architecture+%7C+Impact)](https://git.io/typing-svg)
 
 ---
 
-## PORTFOLIO HIGHLIGHTS
+## 🔹 TECHNICAL EXPERTISE
 
-### 🎓 **AYJ E-Learning Platform**
-*Scalable educational ecosystem serving 500+ active users*  
-**Impact:** 40% improvement in learning engagement  
-**Stack:** Angular • Node.js • MongoDB • JWT
+**Frontend Development**  
+`Angular 17+` · `Ionic` · `TypeScript` · `Modern ES6+`
 
-### 🏛️ **USMBA Academic Portal** 
-*Enterprise-grade student management system*  
-**Impact:** Automated processes for 1000+ students  
-**Stack:** Laravel • MySQL • PDF Generation • Security
+**Backend Systems**  
+`Node.js / Express` · `Laravel / PHP` · `RESTful APIs` · `JWT Authentication`
 
-### ⚡ **Infrastructure Optimization**
-*Strategic consulting for government agency*  
-**Impact:** 75% reduction in system recovery time (4h → 1h)  
-**Technologies:** PowerShell • IaaS Migration • RAID Analysis
+**Data & Security**  
+`MongoDB` · `MySQL` · `Database Optimization` · `Secure Design Patterns`
+
+**Infrastructure & DevOps**  
+`Server Architecture` · `Virtualization` · `RAID Systems` · `Performance Tuning`
 
 ---
 
-## PERFORMANCE METRICS
+## 🔹 SELECTED PROJECTS
+
+### **AYJ E-Learning Platform**  
+*Scalable education ecosystem with 500+ active users*  
+- **Impact:** +40% engagement in learning outcomes  
+- **Stack:** Angular · Node.js · MongoDB · JWT
+
+### **USMBA Academic Portal**  
+*Enterprise-grade student management system (1000+ users)*  
+- **Impact:** Full automation of academic processes  
+- **Stack:** Laravel · MySQL · Blade · PDF Generation
+
+### **Government IT Optimization**  
+*Consulting for urban agency infrastructure*  
+- **Impact:** 75% reduction in system recovery (4h → 1h)  
+- **Stack:** PowerShell · IaaS Migration · RAID Analysis
+
+---
+
+## 🔹 PERFORMANCE METRICS
 
 <div align="center">
   
@@ -55,32 +55,32 @@
 
 ---
 
-## CURRENT OBJECTIVES
+## 🔹 STRATEGIC FOCUS (2025)
 
-**🎯 2025 Strategic Goals**
-- Advanced studies in France (Computer Science/Embedded Systems)
-- Open source contribution leadership
-- Enterprise consulting expansion
+**Academic & Professional Growth**  
+- Advanced studies in France (Computer Science · Embedded Systems)  
+- Leadership in open-source projects  
+- Expansion into enterprise IT consulting  
 
-**⚡ Active Development**
-- AYJ Platform enhancement & scalability
-- Advanced authentication systems
-- Performance optimization algorithms
+**Active Development**  
+- AYJ Platform (scalability & advanced features)  
+- High-security authentication systems  
+- Performance optimization algorithms  
 
 ---
 
-## PROFESSIONAL NETWORK
+## 🔹 CONNECT
 
-**Digital Presence** → [portfoliobadie.vercel.app](https://portfoliobadie.vercel.app)  
-**Professional Contact** → a.khoubiza.dev@gmail.com  
-**Location** → Taza, Morocco → France (2025)
+- **Portfolio** → [portfoliobadie.vercel.app](https://portfoliobadie.vercel.app)  
+- **Email** → a.khoubiza.dev@gmail.com  
+- **Location** → Taza, Morocco → France (2025)  
 
 ---
 
 <div align="center">
 
-*"Excellence is not a skill, it's an attitude."*
+*“Excellence is not an act, it’s a mindset.”*  
 
-**Available for strategic partnerships and challenging projects**
+**Open to strategic collaborations, consulting, and innovation-driven projects.**
 
 </div>
