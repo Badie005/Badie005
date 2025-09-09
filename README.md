@@ -73,7 +73,7 @@
 
 - **Portfolio** → [portfoliobadie.vercel.app](https://portfoliobadie.vercel.app)  
 - **Email** → a.khoubiza.dev@gmail.com  
-- **Location** → Taza, Morocco → France (2025)  
+- **Location** → Taza, Morocco
 
 ---
 
