@@ -5,6 +5,12 @@
 
 ---
 
+## 🔹 ABOUT ME
+
+Passionate full-stack developer from Morocco with expertise in modern web technologies and enterprise-grade solutions. I specialize in creating scalable digital platforms using Angular, Node.js, and cloud architectures. My journey spans from academic portal development serving 1000+ users to e-learning ecosystems with 500+ active learners. With a focus on performance optimization and secure design patterns, I've successfully reduced system recovery times by 75% through strategic IT consulting. Currently pursuing advanced studies in France while expanding into open-source leadership and enterprise consulting. I combine technical excellence with strategic thinking to deliver impactful digital solutions that drive real-world results.
+
+---
+
 ## 🔹 TECHNICAL EXPERTISE
 
 **Frontend Development**  
@@ -40,18 +46,35 @@
 
 ---
 
-## 🔹 PERFORMANCE METRICS
+## 🔹 LATEST POSTS/ARTICLES
+
+*Stay updated with my latest insights on technology, development practices, and digital innovation*
+
+[![Portfolio Badge](https://img.shields.io/badge/Latest%20Articles-Visit%20Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white)](https://portfoliobadie.vercel.app)
+
+- **[Building Scalable E-Learning Platforms](https://portfoliobadie.vercel.app/#blog)** - *Best practices for educational technology*
+- **[Modern Authentication Systems](https://portfoliobadie.vercel.app/#blog)** - *JWT implementation and security patterns*  
+- **[Performance Optimization Strategies](https://portfoliobadie.vercel.app/#blog)** - *Database and server optimization techniques*
+
+*📝 More articles and technical insights available on my [portfolio](https://portfoliobadie.vercel.app)*
+
+---
+
+## 🔹 PERFORMANCE METRICS & CONTRIBUTIONS
 
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=Badie005&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Badie005&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="49%" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Badie005&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Badie005&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="49%" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Badie005&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Badie005&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff" width="60%" />
 </div>
+
+### 🔥 Recent Activity & Contributions
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Badie005&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true)](https://github.com/Badie005)
+
+[![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/Badie005/Badie005/output/github-contribution-grid-snake-dark.svg)](https://github.com/Badie005)
 
 ---
 
@@ -75,12 +98,13 @@
 - **Email** → a.khoubiza.dev@gmail.com  
 - **Location** → Taza, Morocco
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelbadie-khoubiza)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/badie05)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_badie.exe/)
+
 ---
 
 <div align="center">
-
-*“Excellence is not an act, it’s a mindset.”*  
-
-**Open to strategic collaborations, consulting, and innovation-driven projects.**
-
+  <em>"Excellence is not an act, it's a mindset."</em>  
+  <strong>Open to strategic collaborations, consulting, and innovation-driven projects.</strong>
 </div>
