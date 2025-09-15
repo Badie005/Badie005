@@ -72,6 +72,7 @@ Passionate full-stack developer from Morocco with expertise in modern web techno
 </div>
 
 ### 🔥 Recent Activity & Contributions
+
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Badie005&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true)](https://github.com/Badie005)
 
 [![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/Badie005/Badie005/output/github-contribution-grid-snake-dark.svg)](https://github.com/Badie005)
@@ -92,19 +93,58 @@ Passionate full-stack developer from Morocco with expertise in modern web techno
 
 ---
 
+## 🔹 SOFT SKILLS
+
+**Leadership & Communication**  
+`Team Leadership` · `Cross-functional Collaboration` · `Technical Mentoring` · `Client Relations`
+
+**Problem-Solving & Innovation**  
+`Strategic Thinking` · `Creative Problem-Solving` · `Continuous Learning` · `Adaptability`
+
+**Project Management**  
+`Agile Methodologies` · `Time Management` · `Quality Assurance` · `Risk Assessment`
+
+---
+
+## 🔹 CE QUE JE RECHERCHE
+
+🎯 **Actuellement à la recherche de :**
+
+**Opportunités Professionnelles**  
+- Stages/contrats en développement full-stack (France)  
+- Projets de conseil en transformation digitale  
+- Collaborations sur des plateformes éducatives innovantes  
+
+**Collaborations Techniques**  
+- Contributions open-source sur des projets Angular/Node.js  
+- Partenariats sur des solutions d'optimisation performance  
+- Échanges techniques avec des développeurs seniors  
+
+**Développement Personnel**  
+- Mentorat en architecture logicielle  
+- Opportunités de formation en systèmes embarqués  
+- Réseautage professionnel dans l'écosystème tech français  
+
+---
+
 ## 🔹 CONNECT
 
 - **Portfolio** → [portfoliobadie.vercel.app](https://portfoliobadie.vercel.app)  
 - **Email** → a.khoubiza.dev@gmail.com  
 - **Location** → Taza, Morocco
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelbadie-khoubiza)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/badie05)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_badie.exe/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelbadie-khoubiza) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/badie05) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_badie.exe/) [![English](https://img.shields.io/badge/English-Fluent-brightgreen?style=for-the-badge&logo=googletranslate&logoColor=white)]()
 
 ---
 
 <div align="center">
   <em>"Excellence is not an act, it's a mindset."</em>  
-  <strong>Open to strategic collaborations, consulting, and innovation-driven projects.</strong>
+  
+  **Open to strategic collaborations, consulting, and innovation-driven projects.**
+  
+  ---
+  
+  **Signatures**  
+  *Design signature : B.411*  
+  *Development signature : B.DEV*
 </div>
