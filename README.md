@@ -1,122 +1,119 @@
 <div align="center">
 
-# 👋 Hi, I'm Abdelbadie Khoubiza
+# ABDELBADIE KHOUBIZA
 
-**Full-Stack Developer | 🇲🇦 Morocco → 🇫🇷 France**
+**Full-Stack Developer | Morocco → France**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfoliobadie.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/badie-khoubiza/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/badie05)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.khoubiza.dev@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=F5F5F5)](https://portfoliobadie.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=F5F5F5)](https://www.linkedin.com/in/badie-khoubiza/)
+[![X](https://img.shields.io/badge/X-0A0A0A?style=for-the-badge&logo=x&logoColor=F5F5F5)](https://x.com/badie05)
+[![Email](https://img.shields.io/badge/Email-1A1A1A?style=for-the-badge&logo=gmail&logoColor=F5F5F5)](mailto:a.khoubiza.dev@gmail.com)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About
 
-Passionate full-stack developer specializing in **Angular** and **Node.js** with a track record of building scalable digital solutions. Currently pursuing advanced Computer Science studies in France while delivering impactful projects for educational institutions and enterprises.
+Full-stack developer specializing in **Angular** and **Node.js** with a track record of building scalable digital solutions. Currently pursuing advanced Computer Science studies in France while delivering impactful projects for educational institutions and enterprises.
 
-**What I do:**
-- 🎓 Build educational platforms that serve **500+ active users**
-- 🏢 Develop enterprise systems handling **1,000+ concurrent users**
-- ⚡ Optimize infrastructure to reduce recovery time by **75%**
-- 🌍 Bridge technology and education in Morocco and beyond
+**Key achievements:**
+- Educational platforms serving 500+ active users
+- Enterprise systems handling 1,000+ concurrent users
+- Infrastructure optimization reducing recovery time by 75%
+- Bridging technology and education across Morocco and France
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 <div align="center">
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-0A0A0A?style=for-the-badge&logo=angular&logoColor=F5F5F5)
+![TypeScript](https://img.shields.io/badge/TypeScript-1A1A1A?style=for-the-badge&logo=typescript&logoColor=F5F5F5)
+![Node.js](https://img.shields.io/badge/Node.js-0A0A0A?style=for-the-badge&logo=node.js&logoColor=F5F5F5)
+![Laravel](https://img.shields.io/badge/Laravel-1A1A1A?style=for-the-badge&logo=laravel&logoColor=F5F5F5)
+![MongoDB](https://img.shields.io/badge/MongoDB-0A0A0A?style=for-the-badge&logo=mongodb&logoColor=F5F5F5)
+![MySQL](https://img.shields.io/badge/MySQL-1A1A1A?style=for-the-badge&logo=mysql&logoColor=F5F5F5)
+![Ionic](https://img.shields.io/badge/Ionic-0A0A0A?style=for-the-badge&logo=ionic&logoColor=F5F5F5)
+![Next.js](https://img.shields.io/badge/Next.js-1A1A1A?style=for-the-badge&logo=next.js&logoColor=F5F5F5)
 
 </div>
 
-**Frontend:** Angular • TypeScript • Ionic • Next.js  
-**Backend:** Node.js • Laravel • PHP • REST APIs  
-**Database:** MongoDB • MySQL • Database Optimization  
-**Infrastructure:** Server Management • Virtualization • PowerShell • Performance Tuning
+**Frontend:** Angular, TypeScript, Ionic, Next.js  
+**Backend:** Node.js, Laravel, PHP, REST APIs  
+**Database:** MongoDB, MySQL, Database Optimization  
+**Infrastructure:** Server Management, Virtualization, PowerShell, Performance Tuning
 
 ---
 
-## 🎯 Featured Projects
+## Featured Projects
 
-### 🎓 [AYJI E-Learning Platform](https://github.com/Badie005/ayji-frontend)
-> Comprehensive educational platform transforming online learning experiences
+### [AYJI E-Learning Platform](https://github.com/Badie005/ayji-frontend)
+Comprehensive educational platform transforming online learning experiences
 
-- **Impact:** 500+ active users • 40% engagement increase
+- **Impact:** 500+ active users, 40% engagement increase
 - **Tech:** Angular, Node.js, MongoDB
 - **Features:** Interactive courses, progress tracking, real-time notifications
 
-### 🏛️ [USMBA Academic Portal](https://github.com/Badie005/gestion-parcours-usmba)
-> University management system for FPT Taza
+### [USMBA Academic Portal](https://github.com/Badie005/gestion-parcours-usmba)
+University management system for FPT Taza
 
 - **Scale:** 1,000+ concurrent users
 - **Tech:** Laravel, MySQL, PDF Generation
 - **Features:** Student enrollment, secure document generation, academic tracking
 
-### 💼 Infrastructure Consulting
-> Government agency system optimization
+### Infrastructure Consulting
+Government agency system optimization
 
 - **Result:** 75% reduction in recovery time
 - **Focus:** PowerShell automation, RAID configuration, disaster recovery
 
-### 🌐 [Modern Tech Blog](https://github.com/Badie005/blog-tech-nextgen)
-> Next-generation blogging platform with modern UI/UX
+### [Modern Tech Blog](https://github.com/Badie005/blog-tech-nextgen)
+Next-generation blogging platform with modern UI/UX
 
 - **Tech:** Next.js, TypeScript
 - **Features:** Markdown support, SEO optimization, responsive design
 
-### ☕ [Café L'Élysée](https://github.com/Badie005/cafe-lelysee-taza)
-> Luxury café digital presence
+### [Café L'Élysée](https://github.com/Badie005/cafe-lelysee-taza)
+Luxury café digital presence
 
 - **Tech:** TypeScript, Modern Web Standards
 - **Features:** Interactive menu, booking system, brand showcase
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Badie005&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff&count_private=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Badie005&theme=radical&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Badie005&show_icons=true&theme=dark&hide_border=true&bg_color=0A0A0A&text_color=F5F5F5&icon_color=6B6B6B&title_color=F5F5F5&count_private=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Badie005&theme=dark&hide_border=true&background=0A0A0A&ring=6B6B6B&fire=6B6B6B&currStreakLabel=F5F5F5&sideLabels=F5F5F5&currStreakNum=F5F5F5&dates=999999" width="49%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Badie005&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&langs_count=8" width="49%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Badie005&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Badie005&layout=compact&theme=dark&hide_border=true&bg_color=0A0A0A&text_color=F5F5F5&title_color=F5F5F5&langs_count=8" width="49%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Badie005&theme=react-dark&hide_border=true&bg_color=0A0A0A&color=6B6B6B&line=6B6B6B&point=F5F5F5" width="49%" />
 </div>
 
 ---
 
-## 🌟 What I'm Up To
+## Current Focus
 
-- 🔭 Currently working on **scalable e-learning solutions**
-- 🌱 Deepening my expertise in **cloud architecture** and **DevOps**
-- 👯 Open to collaborate on **open-source educational tools**
-- 💬 Ask me about **Angular, Node.js, or building MVPs**
-- ⚡ Fun fact: I automate everything I do more than twice
+- Currently working on scalable e-learning solutions
+- Deepening expertise in cloud architecture and DevOps
+- Open to collaborate on open-source educational tools
+- Available for consulting on Angular, Node.js, or building MVPs
 
 ---
 
-## 📫 Let's Connect
-
-I'm always interested in discussing new projects, creative ideas, or opportunities to be part of innovative solutions.
+## Connect
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-000000?style=for-the-badge)](https://portfoliobadie.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/💼_Connect_on_LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/badie-khoubiza/)
-[![Email](https://img.shields.io/badge/📧_Send_Email-D14836?style=for-the-badge)](mailto:a.khoubiza.dev@gmail.com)
-[![X/Twitter](https://img.shields.io/badge/🐦_Follow_on_X-000000?style=for-the-badge)](https://x.com/badie05)
+[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-0A0A0A?style=for-the-badge)](https://portfoliobadie.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-1A1A1A?style=for-the-badge)](https://www.linkedin.com/in/badie-khoubiza/)
+[![Email](https://img.shields.io/badge/Send_Email-0A0A0A?style=for-the-badge)](mailto:a.khoubiza.dev@gmail.com)
+[![X](https://img.shields.io/badge/Follow_on_X-1A1A1A?style=for-the-badge)](https://x.com/badie05)
 
 </div>
 
@@ -124,8 +121,8 @@ I'm always interested in discussing new projects, creative ideas, or opportuniti
 
 <div align="center">
 
-### 💡 *"Building digital solutions that make a difference"*
+*Building digital solutions that make a difference*
 
-![Profile Views](https://komarev.com/ghpvc/?username=Badie005&color=58a6ff&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Badie005&color=6B6B6B&style=flat-square&label=Profile+Views)
 
 </div>
