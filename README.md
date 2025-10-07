@@ -148,11 +148,11 @@ Système de gestion académique pour la Faculté Polydisciplinaire de Taza.
 
 ## Focus Actuel
 
-- 🎓 Préparation aux études de licence (Taza, Maroc)
-- 🚀 Optimisation de mon profil professionnel pour opportunités internationales
-- 💼 Amélioration continue de mon portfolio et présence en ligne
-- 🔍 Recherche d'opportunités dans le développement full-stack
-- 📚 Veille technologique active (IA, frameworks modernes, DevOps)
+- Préparation aux études de licence (Taza, Maroc)
+- Optimisation de mon profil professionnel pour opportunités internationales
+- Amélioration continue de mon portfolio et présence en ligne
+- Recherche d'opportunités dans le développement full-stack
+- Veille technologique active (IA, frameworks modernes, DevOps)
 
 **Ouvert à :**
 - Collaborations sur projets éducatifs open-source
